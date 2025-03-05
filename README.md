@@ -1,5 +1,11 @@
-## Hi there 👋
-
+<a href="https://www.gitanimals.org/">
+      <img
+        src="https://render.gitanimals.org/guilds/684965204138480419/draw"
+        width="600"
+        height="300"
+        alt="gitanimals"
+      />
+    </a>
 <!--
 **No-Angry/No-Angry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
