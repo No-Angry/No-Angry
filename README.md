@@ -1,3 +1,5 @@
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=noangry)](https://solved.ac/noangry)
 <a href="https://www.gitanimals.org/">
       <img
         src="https://render.gitanimals.org/guilds/684965204138480419/draw"
@@ -6,7 +8,7 @@
         alt="gitanimals"
       />
     </a>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ashyeon0422)](https://solved.ac/ashyeon0422/)
+
 
 <!--
 **No-Angry/No-Angry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
